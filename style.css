@@ -1,0 +1,17 @@
+img{width: 480px;
+border: 7px solid grey;
+}
+body{
+background-color: DodgerBlue;
+font-family: ariel;
+}
+.red{
+color:white;
+}
+.big-font{
+font-size: 32px;
+}
+#specialStyle{
+	background-color: DeepSkyBlue;
+	color: DeepPink;
+	}
